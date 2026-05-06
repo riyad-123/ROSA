@@ -35,6 +35,6 @@ ROSA does not just generate electricity; it creates storable, high-density fuel 
 > "When the tank is empty, economics die. Only the architecture of energy remains."
 
 ---
-**Lead Architect:** Riyad  
+**Lead Architect:** 🆁︎🅸︎🆈︎🅰︎🅳︎   
 **Version:** 1.0.0 (May 2026)  
 **Status:** Random thinking caused by current energy crisis due to Iran, US war which shows us how true crisis of fuel might look like.
