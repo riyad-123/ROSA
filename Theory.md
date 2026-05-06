@@ -37,4 +37,4 @@ ROSA does not just generate electricity; it creates storable, high-density fuel 
 ---
 **Lead Architect:** Riyad  
 **Version:** 1.0.0 (May 2026)  
-**Status:** Blueprint for the Future
+**Status:** Random thinking caused by current energy crisis due to Iran, US war which shows us how true crisis of fuel might look like.
