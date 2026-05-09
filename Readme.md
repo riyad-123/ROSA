@@ -39,9 +39,10 @@ ROSA does not just generate electricity; it creates storable, high-density fuel 
 **Version:** 1.0.0 (May 2026)  
 **Status:** Random thinking caused by current energy crisis due to Iran, US war which shows us how true crisis of fuel might look like.
 ---
-**Socials:
-Discord: https://discord.gg/deltadynamics
-X: https://x.com/@_Delta_Dynamics
-Facebook: https://www.facebook.com/share/17ytdzW2WH/
-Instagram: https://instagram.com/v21xr
-Youtube: https://youtube.com/@deltadynamicsofficial**
+# Socials
+
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/deltadynamics)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/@_Delta_Dynamics)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/share/17ytdzW2WH/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/v21xr)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@deltadynamicsofficial)
